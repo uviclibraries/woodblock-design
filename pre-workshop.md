@@ -13,6 +13,9 @@ This workshop is primarily hands-on practice with **Inkscape or Photopea** in or
 - [Laser Cutting Basics](https://www.instructables.com/id/Laser-Cutting-Basics/){:target="_blank"} (10 min)
 
 **Watch pre-class Videos**<br>
+[How did Woodblock Printing begin?] (https://www.youtube.com/watch?v=7oDuMZUxxeo){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oDuMZUxxeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [How does Laser Cutting Work - Basics Explained](https://www.youtube.com/watch?v=SIjUVCho_xU&ab_channel=TrotecLaser){:target="_blank"} (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIjUVCho_xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
