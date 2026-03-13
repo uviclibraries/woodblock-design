@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
+
 <img src="images/WoodBlockExampleTransArchive.jpg" style="float:right;width:180px;" alt="image description">
 
 # Design for Digital Woodblock Printing using Laser Cutting
