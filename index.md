@@ -14,7 +14,7 @@ nav_order: 1
 
 ## What are wood block prints?
 
-Wood block prints are a traditional Chinese method for printing text. Traditionally done by carving out of blocks of wood, the method has been adapted to other modern practices including linocut block prints and in this case, lasercutting designs onto wood.
+Wood block prints are a traditional Chinese method for printing text. They are used by applying ink to a carved "stamp" and then pressing it to paper to transfer to ink to it, originally used for producing texts or early books. Traditionally done by carving out of blocks of wood, the method has been adapted to other modern practices including linocut block prints and in this case, lasercutting designs onto wood.
 
 ## What is laser cutting? 
 
