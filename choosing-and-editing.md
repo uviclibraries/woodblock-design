@@ -8,6 +8,8 @@ parent: Workshop Activities
 
 ## Picking a Design
 
+<img src="images/ExampleImage2.png" style="float:right;width:200 px;" alt="image description">
+
 1. Find an image that you would like to try vectorizing for your print and save it to your computer. The best images meet these requirements:
 
    -Have high contrast between the colours, meaning a good distinction between them.
@@ -20,7 +22,7 @@ parent: Workshop Activities
 
 These are images that are good examples of designs that would work. Not only are they black and white, they are clear, simple, flat designs with only two "values". You will see that there is some editing to be done, such as cropping, erasing pencil marks, and some colour adjustments for extra clarity. In the next step we will go over how to process your photo so it is perfect for vectorizing.
 
-<img src="images/ExampleImage2.png" style="float:right;width:230 px;" alt="image description">
+
 
 ## Editing your Design in Photopea
 
