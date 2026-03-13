@@ -1,4 +1,4 @@
-# Design for Digital Woodblock Printing goes here...
+# Design for Digital Woodblock Printing
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/woodblock-print/
