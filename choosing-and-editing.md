@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparing your Design
+title: Choosing and Editing your Design
 nav_order: 2
 parent: Workshop Activities
 ---
