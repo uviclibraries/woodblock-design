@@ -6,31 +6,41 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Design for Digital Woodblock Printing using Laser Cutting
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
 
-## Why TOOL NAME HERE? 
+## What are wood block prints?
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Wood block prints are a traditional Chinese method for printing text. Traditionally done by carving out of blocks of wood, the method has been adapted to other modern practices including linocut block prints and in this case, lasercutting designs onto wood.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+## What is laser cutting? 
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+**Laser cutting** is a process for cutting materials to create 2D and 3D designs.  From a digital file, laser cutters use computer controlled high powered lasers to engrave or cut wood, metal, paper and more with high precision.
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+Laser cutting is a fast and accurate way to engrave objects, make boxes, design stencils, and more!
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+## What tools do we use?
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+[Inkscape](https://inkscape.org/){:target="_blank"} is a free and open source design tool for making and editing vector graphics.  Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.
+
+Another design tool is [Photopea](https://www.photopea.com/){:target="_blank"}, a free online image editor.  You can export designs in several formats including .SVG. 
+
+This workshop is not an endorsement of Inkscape or Photopea; there are many options for 2D design and other software may be better for different contexts or preferences.
+
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Explain to others the pros and cons of laser cutting relative to 3D printing
+2. Explain to others acceptable materials for laser cutting and why certain materials are not acceptable
+3. Explain what kerf is and how to account for it when designing
+4. Describe the difference between vector and raster cuts for engraving
+5. Select appropriate 2D or 3D design software for laser applications
+6. Find objects and designs online for laser cutting
+7. Create and modify 2D designs for engraving
+8. Export designs to .svg file format
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
