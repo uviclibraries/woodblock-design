@@ -1,22 +1,26 @@
 ---
 layout: default
-title: Choosing and Editing your Design
+title: Preparing your Design
 nav_order: 2
 parent: Workshop Activities
 ---
-# Picking and Editing your Design
+# Preparing your Design
 
-## Picking a good Design
+## Picking a Design
 
 1. Find an image that you would like to try vectorizing for your print and save it to your computer. The best images meet these requirements:
-   -Have high contrast between the colours, meaning a good distinction between them. 
+
+   -Have high contrast between the colours, meaning a good distinction between them.
+   
    -Have minimal colour variation, try to pick a design with only two colours for the first one.
+   
    -Is black and white or can easily be made black and white.
+   
    -Not too detailed, flat designs work best for beginners.
 
-These are images that are good examples of designs that would work. Not only are they black and white, they are clear, simple, flat designs with only two "values". 
+These are images that are good examples of designs that would work. Not only are they black and white, they are clear, simple, flat designs with only two "values". You will see that there is some editing to be done, such as cropping, erasing pencil marks, and some colour adjustments for extra clarity. In the next step we will go over how to process your photo so it is perfect for vectorizing.
 
-<img src= 
+<img src="images/ExampleImage2.png" style="float:right;width:230 px;" alt="image description">
 
 ## Editing your Design in Photopea
 
