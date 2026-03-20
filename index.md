@@ -34,13 +34,15 @@ This workshop is not an endorsement of Inkscape or Photopea; there are many opti
 
 At the end of this workshop, you will be able to:
 
-1. Explain to others the pros and cons of laser cutting relative to 3D printing
-2. Explain to others acceptable materials for laser cutting and why certain materials are not acceptable
-3. Explain what kerf is and how to account for it when designing
-4. Describe the difference between vector and raster cuts for engraving
-5. Select appropriate 2D or 3D design software for laser applications
-6. Find objects and designs online for laser cutting
-7. Create and modify 2D designs for engraving
-8. Export designs to .svg file format
+1. Explain to others the origin and use for woodblock printing
+2. Explain to others what relief printing means
+3. Tell the difference between negative and positive printing 
+4. Sourcing appropriate designs through books or online
+5. Edit your image using Photopea
+6. Vectorize and invert your image using Inkscape
+7. Exporting your images with proper file types (such as .png or .svg)
+8. Describe the difference between vector and raster cuts for engraving
+9. Explain how the lasercutter works 
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
