@@ -4,11 +4,10 @@ title: Preparing Image for Laser Engraving
 nav_order: 2
 parent: Workshop Activities
 ---
-# Importing your Design into Inkscape
 
-## Vectorizing your Design in Inkscape 
+# Vectorizing your Design in Inkscape 
 
-# Importing and Sizing Document
+## Importing and Sizing Document
 
 1. Open Inkscape. Select “Open” and navigate in your files to your saved .png file.
 
@@ -24,7 +23,7 @@ parent: Workshop Activities
 
 7. Recenter your image if needed to be centered on the canvas 
 
-# Vectorizing 
+## Vectorizing 
 
 
 1. Select “Path” at the top of your window, and choose “Trace Bitmap”. A new window on the right should pop up. 
@@ -39,12 +38,21 @@ parent: Workshop Activities
 
 6. If you want, you can adjust the smoothness of the corners, speckles, or optimize. These are completely up to you and we encourage you to play around with your settings.
 
-7. Press “Apply” to trace the bitmap. It will be directly overlaid your old image on the canvas, so click to select it and move it aside. You can compare them side by side and if you are unhappy with your result simply go to “Edit” and then “Delete” to delete your vector version. Retry until you get settings you are happy with. 
+7. Press “Apply” to trace the bitmap. It will be directly overlaid your old image on the canvas, so click to select it and move it aside. You can compare them side by side and if you are unhappy with your result simply go to “Edit” and then “Delete” to delete your vector version. Retry until you get settings you are happy with.  
 
-# Cleaning up the Image 
+## Cleaning up the Image 
 
+You may want to edit some lines or delete some pieces off of the vectorized result. 
 
-# Flipping your Image
+1. Go to "Node Tool" on the left under the black arrow button. Your design will now have grey boxes all over it. These are the *"nodes"*.
+
+2. Zoom in close by holding "ctrl" or "command" on your keyboard and scrolling.
+
+3. You can left click on any of the nodes to move them around, or press "Delete" on your keyboard to remove unwanted ones.
+
+4. Once finished, choose the black arrow above the Node Tool to go back to selection mode. 
+
+## Flipping your Image
 
 1. If you are doing woodblock printing, your design needs to be flipped so that the image that is produced on the paper is the same orientation as the original design. 
 
@@ -56,10 +64,21 @@ parent: Workshop Activities
 
 5. Flip the image horizontally. Your image must be mirrored so that when you stamp it, it comes out the right orientation!
 
+## Adding a Cutting Guide
+
+1. In order to make sure the laser cutter cuts your piece as the correct size, we need to create a guideline for it. You can pick any shape you want, but typically squares or circles work best depending on your design.
+
+2. Select the "Rectangle Tool" and left click and drag on your canvas to make a rectangle or square that fits your design in it. 
+
 # Exporting your Image
 
+1. First, make sure your image is centered on your canvas and double check that you are happy with the image size as we did in the importing step.
 
+2. Go to "File", then "Export". An exporting window will pop up on the right hand side.
 
+3. Select the "Folder" icon above "Export" to choose a save location in your files.
+
+4. Next choose, your file type. Pick "Inkscape SVG". This means Scaleable Vector Graphic and this is the image format 
 
 
 
