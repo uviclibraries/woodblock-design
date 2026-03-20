@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Choosing and Editing your Design
+title: Preparing Image for Laser Engraving
 nav_order: 2
 parent: Workshop Activities
 ---
