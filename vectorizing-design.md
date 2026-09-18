@@ -68,8 +68,8 @@ You may want to edit some lines or delete some pieces off of the vectorized resu
 
 1. In order to make sure the laser cutter cuts your piece as the correct size, we need to create a guideline for it. You can pick any shape you want, but typically squares or circles work best depending on your design.
 
-2. Select the "Rectangle Tool" and left click and drag on your canvas to make a rectangle or square that fits your design in it. 
-
+2. Select the "Rectangle Tool" and left click and drag on your canvas to make a rectangle or square that fits your design in it. The stroke (the technical word for the outline) is best to be in a true red. For more detailed instructions on how to create a true red stroke line, you can refer to [the instructions here:](https://uviclibraries.github.io/laser/1-Keychain.html){:target="_blank"}
+<img src="images/strokeline.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 # Exporting your Image
 
 1. First, make sure your image is centered on your canvas and double check that you are happy with the image size as we did in the importing step.
