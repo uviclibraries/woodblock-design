@@ -100,5 +100,4 @@ You may want to edit some lines or delete some pieces off of the vectorized resu
 
 
 
-
-[NEXT STEP: Vectorizing your Design in Inkscape](vectorizing-design.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
