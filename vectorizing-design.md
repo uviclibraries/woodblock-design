@@ -11,10 +11,10 @@ parent: Workshop Activities
 
 1. Open Inkscape. Select “Open” and navigate in your files to your saved .png file.
 
-2. A window will pop up asking for things like Image Import Type and Image DPI. Leave everything at default (Should look like this) and press “OK” at the bottom.
-
+2. A window will pop up asking for things like Image Import Type and Image DPI. Leave everything at default (Should look like the example on the side) and press “OK” at the bottom. 
+<img src="images/inkscape01.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 3. Next, let’s check the size of the file in inches or cm. At the top of the window there should be two numerical values next to the letters “W” and “H” with a lock in between them. Select the drop down menu directly to the right of the H window and scroll to find inches or cm. Click on either and it will show you in the “W” and “H” windows what size your image is in that measurement.
-
+<img src="images/inkscape02.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 4. If you are unhappy with that size, simply click on the lock button in between the W and H and then change one of the measurements, H for example, to the height you want it to be. Because you selected the lock, when the image changes size, it will retain the same aspect ratio. 
 
 5. Now you may notice that your image is not the same size as the canvas which will be an issue when exporting as whatever is visible on the canvas itself is what gets exported. To fix this, we will go to “File”, “Document Properties” and then you will be shown a new window.
@@ -23,23 +23,23 @@ parent: Workshop Activities
 
 7. Recenter your image if needed to be centered on the canvas 
 
-## Vectorizing 
+## Converting to Vector 
 
 
 1. Select “Path” at the top of your window, and choose “Trace Bitmap”. A new window on the right should pop up. 
 
-2. Left click on your image to make sure it is selected. You’ll know it is selected hwen there are black arrows surrounding the image, or more importantly, if you can see it in the new window that appeared. 
-
+2. Left click on your image to make sure it is selected. You’ll know it is selected when there are black arrows surrounding the image, or more importantly, if you can see it in the new window that appeared. 
+<img src="images/trace01.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 3. In this image you can adjust the settings for vectorizing your image. You can extend the new window out to the left to enlarge the image of the preview. 
 
 4. We are going to use the generic “Brightness cutoff” detection mode. You can adjust the threshold up or down. Keep an eye on the preview. The higher the threshold, the more pixels will be converted to Vector. 
 
 5. Be sure to select “Invert Image” for woodblock printing purposes. If you want a positive print, you need to invert it. If you want a negative print, keep it as is. Remember, the parts that are black will be the parts that are engraved and not visible in the final print. 
-
+<img src="images/trace02.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 6. If you want, you can adjust the smoothness of the corners, speckles, or optimize. These are completely up to you and we encourage you to play around with your settings.
 
 7. Press “Apply” to trace the bitmap. It will be directly overlaid your old image on the canvas, so click to select it and move it aside. You can compare them side by side and if you are unhappy with your result simply go to “Edit” and then “Delete” to delete your vector version. Retry until you get settings you are happy with.  
-
+<img src="images/trace03.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 ## Cleaning up the Image 
 
 You may want to edit some lines or delete some pieces off of the vectorized result. 
@@ -51,7 +51,7 @@ You may want to edit some lines or delete some pieces off of the vectorized resu
 3. You can left click on any of the nodes to move them around, or press "Delete" on your keyboard to remove unwanted ones.
 
 4. Once finished, choose the black arrow above the Node Tool to go back to selection mode. 
-
+<img src="images/nodes.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 ## Flipping your Image
 
 1. If you are doing woodblock printing, your design needs to be flipped so that the image that is produced on the paper is the same orientation as the original design. 
