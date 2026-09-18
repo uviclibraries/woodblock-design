@@ -12,9 +12,9 @@ parent: Workshop Activities
 1. Open Inkscape. Select “Open” and navigate in your files to your saved .png file.
 
 2. A window will pop up asking for things like Image Import Type and Image DPI. Leave everything at default (Should look like the example on the side) and press “OK” at the bottom. 
-<img src="images/inkscape01.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
-3. Next, let’s check the size of the file in inches or cm. At the top of the window there should be two numerical values next to the letters “W” and “H” with a lock in between them. Select the drop down menu directly to the right of the H window and scroll to find inches or cm. Click on either and it will show you in the “W” and “H” windows what size your image is in that measurement.
 <img src="images/inkscape02.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
+3. Next, let’s check the size of the file in inches or cm. At the top of the window there should be two numerical values next to the letters “W” and “H” with a lock in between them. Select the drop down menu directly to the right of the H window and scroll to find inches or cm. Click on either and it will show you in the “W” and “H” windows what size your image is in that measurement.
+<img src="images/inkscape03.png" style="margin-left:20px; float:right;width:200px;" alt="inkscape screenshot">
 4. If you are unhappy with that size, simply click on the lock button in between the W and H and then change one of the measurements, H for example, to the height you want it to be. Because you selected the lock, when the image changes size, it will retain the same aspect ratio. 
 
 5. Now you may notice that your image is not the same size as the canvas which will be an issue when exporting as whatever is visible on the canvas itself is what gets exported. To fix this, we will go to “File”, “Document Properties” and then you will be shown a new window.
